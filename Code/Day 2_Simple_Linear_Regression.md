@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img src="/Info-graphs/Day%202.jpg">
 </p>
 
 
@@ -17,7 +17,7 @@ X = dataset.iloc[ : ,   : 1 ].values
 Y = dataset.iloc[ : , 1 ].values
 
 from sklearn.model_selection import train_test_split
-X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, random_state = 0) 
+X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, random_state = 0)
 ```
 
 # 第二步：训练集使用简单线性回归模型来训练
@@ -30,8 +30,8 @@ X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, rand
  ```python
  Y_pred = regressor.predict(X_test)
  ```
- 
- # 第四步：可视化 
+
+ # 第四步：可视化
  ## 训练集结果可视化
  ```python
  plt.scatter(X_train , Y_train, color = 'red')
@@ -43,4 +43,4 @@ X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, rand
  plt.scatter(X_test , Y_test, color = 'red')
  plt.plot(X_test , regressor.predict(X_test), color ='blue')
  plt.show()
- ``` 
+ ```

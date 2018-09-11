@@ -1,6 +1,6 @@
 # Day 13 | 支持向量机 (SVM)
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
+  <img src="/Info-graphs/Day%2012.jpg">
 </p>
 
 ## 导入库
@@ -69,7 +69,7 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Other%20Docs/SVM_training%20set.png">
+  <img src="/Other%20Docs/SVM_training%20set.png">
 </p>
 
 ## 测试集合结果可视化
@@ -92,5 +92,5 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Other%20Docs/SVM_test%20set.png">
+  <img src="/Other%20Docs/SVM_test%20set.png">
 </p>

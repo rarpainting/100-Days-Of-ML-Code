@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.png">
+  <img src="/Info-graphs/Day%203.png">
 </p>
 
 
@@ -50,5 +50,3 @@ regressor.fit(X_train, Y_train)
 ```python
 y_pred = regressor.predict(X_test)
 ```
-
-

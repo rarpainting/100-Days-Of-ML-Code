@@ -1,14 +1,14 @@
 # K近邻法 (K-NN)
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
+  <img src="/Info-graphs/Day%207.jpg">
 </p>
 
 ## 数据集 | 社交网络
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/data.PNG">
-</p> 
+</p>
 
 
 ## 导入相关库

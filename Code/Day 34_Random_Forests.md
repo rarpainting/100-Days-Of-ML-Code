@@ -1,7 +1,7 @@
 # 随机森林
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.png">
+  <img src="/Info-graphs/Day%2033.png">
 </p>
 
 ## 导入库
